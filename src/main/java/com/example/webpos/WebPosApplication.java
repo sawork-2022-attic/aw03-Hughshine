@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 @SpringBootApplication
 @Configuration
 public class WebPosApplication {
-
+    // TODO: discount
     public static void main(String[] args) {
         SpringApplication.run(WebPosApplication.class, args);
     }
