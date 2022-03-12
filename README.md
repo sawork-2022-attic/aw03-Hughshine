@@ -1,4 +1,12 @@
-# WebPOS
+# Comments on MVC
+
+Controller is additionally layered for dispatching parameters & rendering views with more flexibility and convenience.
+
+Template engineer should be of good use. 
+
+Other things are similar to traditional 3-layer system. 
+
+## WebPOS
 
 The demo shows a simple POS system in MVC architecture, which replaces the shell interface in aw02 with a pos web ui (https://github.com/bshbsh404/simple-pos-ui
 ).
